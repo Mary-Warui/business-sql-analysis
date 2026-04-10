@@ -1,10 +1,8 @@
----
-
-## 🔹 SQL Queries
+SQL Queries
 
 This project includes structured SQL queries used to analyze business distribution, industry trends, and market opportunities.
 
-### 📌 Query 1: Top 10 Business Categories
+Query 1: Top 10 Business Categories
 ```sql
 SELECT 
     BusinessCategory,
