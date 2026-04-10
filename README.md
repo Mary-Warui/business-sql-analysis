@@ -5,7 +5,7 @@ This project analyzes business license data to uncover patterns in business dist
 
 ---
 
-## 🔹 Key Business Questions
+## Key Business Questions
 
 ### 1. What are the most common business categories?
 - Identified dominant industries within the region 
@@ -20,7 +20,7 @@ This project analyzes business license data to uncover patterns in business dist
 - Identified residential vs commercial business environments
 
 Key Insights 
-### 📌 Industry Landscape (Top Business Categories)
+### Industry Landscape (Top Business Categories)
 
 <img width="859" height="641" alt="image" src="https://github.com/user-attachments/assets/7570a6b7-135f-4733-9f62-8f0235677e47" />
 
@@ -34,7 +34,7 @@ Food services, particularly restaurants without alcohol licensing, show moderate
 
 Professional services such as medical practitioners and immigration consultants highlight population-driven demand and suggest a diverse and growing community.
 
-### 📌 Business Distribution by TownCentre
+### Business Distribution by TownCentre
   <img width="989" height="642" alt="image" src="https://github.com/user-attachments/assets/a0e3c8bb-e695-41cd-8acb-b1fd249859c3" />
   
 Newton emerges as the primary business hub, with more than twice the number of businesses compared to South Surrey, indicating a highly concentrated and competitive commercial environment.
@@ -45,7 +45,7 @@ Cloverdale, Guildford, and Whalley form a middle tier of business activity, offe
 
 City Centre and Fleetwood show relatively lower business densities, which may present potential opportunities for new business entry due to reduced competition.
 
-### 📌 Commercial vs Home-Based Business Structure
+### Commercial vs Home-Based Business Structure
 
 
 <img width="945" height="663" alt="image" src="https://github.com/user-attachments/assets/e88fc4f6-73e1-4ea3-b731-d783d6e44bfc" />
@@ -63,12 +63,12 @@ Cloverdale shows a moderate lean toward home-based businesses, reflecting a tran
 
 ---
 
-## 🔹 Tools & Techniques
+## Tools & Techniques
 - SQL (SQLite)
 - Data Aggregation (GROUP BY, COUNT)
 - Window Functions (ROW_NUMBER, PARTITION BY)
 - Percentage and Comparative Analysis
 
 
-## 🔹 Author
+## Author
 Mary Warui
