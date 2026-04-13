@@ -4,6 +4,8 @@
 This project analyzes business license data to uncover patterns in business distribution, industry concentration, and market opportunities across different TownCentres. The analysis provides data-driven insights to support strategic decisions such as business expansion, location selection, and market entry.
 
 ---
+Power BI Dashboard
+<img width="982" height="501" alt="image" src="https://github.com/user-attachments/assets/28c74ddc-d354-46b9-a293-299823f7cc10" />
 
 ## Key Business Questions
 
