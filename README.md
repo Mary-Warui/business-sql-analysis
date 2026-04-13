@@ -4,8 +4,15 @@
 This project analyzes business license data to uncover patterns in business distribution, industry concentration, and market opportunities across different TownCentres. The analysis provides data-driven insights to support strategic decisions such as business expansion, location selection, and market entry.
 
 ---
-Power BI Dashboard
+📊 Power BI Dashboard
 <img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/93b87c03-090a-475f-b6bb-568df78538f1" />
+
+Key Metrics
+Total Businesses: ~24,000
+Commercial Businesses: 48.3%
+Home-Based Businesses: 51.7%
+
+This interactive dashboard summarizes key business insights, including total businesses, category distribution, geographic concentration, and the balance between commercial and home-based operations.
 
 ## Key Business Questions
 
@@ -65,11 +72,13 @@ Cloverdale shows a moderate lean toward home-based businesses, reflecting a tran
 
 ---
 
-## Tools & Techniques
-- SQL (SQLite)
-- Data Aggregation (GROUP BY, COUNT)
-- Window Functions (ROW_NUMBER, PARTITION BY)
-- Percentage and Comparative Analysis
+## Skills Demonstrated
+
+- Data Analysis & Exploration  
+- SQL Querying & Aggregation  
+- Data Visualization (Power BI)  
+- Business Insight Generation  
+- Dashboard Design & Storytelling  
 
 
 ## Author
