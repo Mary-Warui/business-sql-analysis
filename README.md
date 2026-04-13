@@ -5,7 +5,7 @@ This project analyzes business license data to uncover patterns in business dist
 
 ---
 Power BI Dashboard
-<img width="982" height="501" alt="image" src="https://github.com/user-attachments/assets/28c74ddc-d354-46b9-a293-299823f7cc10" />
+<img width="975" height="523" alt="image" src="https://github.com/user-attachments/assets/93b87c03-090a-475f-b6bb-568df78538f1" />
 
 ## Key Business Questions
 
